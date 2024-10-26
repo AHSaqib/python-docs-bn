@@ -1,0 +1,30 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sphinx build files (where built HTML, etc., are stored)
+build/
+dist/
+_static/
+_templates/
+
+# Editor or IDE files (e.g., for VSCode, PyCharm)
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sphinx documentation cache
+*.doctree
+*.pot
+
+# Translation files
+*.mo
+*.po~
+
+# Virtual environment directory
+venv/
+env/
