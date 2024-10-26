@@ -61,11 +61,11 @@ Please follow the project’s style guidelines and ensure accurate translations.
 Stay updated and discuss translation issues or challenges:
 
 - **Mailing List**: [Python Documentation Translators](https://mail.python.org/mailman/listinfo/docs)
-- **GitHub Discussions**: [Discussions Page](https://github.com/AHSaqib/python-docs-translation-bn/discussions)
+- **GitHub Discussions**: [Discussions Page](https://github.com/AHSaqib/python-docs-bn/discussions)
 
 ## 💬 Feedback
 
-Have feedback or suggestions? Feel free to open an [issue](https://github.com/AHSaqib/python-docs-translation-bn/issues) or join the conversation on our discussions page.
+Have feedback or suggestions? Feel free to open an [issue](https://github.com/AHSaqib/python-docs-bn/issues) or join the conversation on our discussions page.
 
 ## 📜 License
 
